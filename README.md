@@ -12,6 +12,7 @@ The examples are written to understand core JavaScript concepts step by step.
 |├── loops.js
 |├── functions.js
 |├── Arrays.js
+||__Oops.js
 ||__Readme.md
 
 
@@ -24,6 +25,7 @@ The examples are written to understand core JavaScript concepts step by step.
 - Loops
 - Functions
 - Arrays
+- Oops
 
 ## ▶️ How to Run
 
